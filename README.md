@@ -10,6 +10,11 @@ a FiveM script that copies another player's exact outfit by executing a command.
 * Add `start copyfit` to your **server.cfg**
 * Restart server
 
+## Improvements in v2
+- `/copy <id>` now copies props as well
+- (Includes hats, watches, bracelets, misc)
+- Fixed different player model bug
+
 ## Credit for Help
 https://github.com/ChonkyBadger
 
