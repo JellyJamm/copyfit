@@ -5,7 +5,7 @@ game 'gta5'
 name 'CopyFit'
 author 'Chonky Jelly'
 description 'Jelly is Chonky but Chonky Badger is Chonkier'
-version '1.0'
+version '2.0'
 url 'https://github.com/JellyJamm/copyfit/'
 
 -- Files
